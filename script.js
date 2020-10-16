@@ -1,1 +1,2 @@
-console.log('Connected!');
+const videoElement = document.getElementById('video');
+console.log(videoElement);
